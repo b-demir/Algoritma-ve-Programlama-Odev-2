@@ -22,15 +22,17 @@ Bu proje, C programlama dili kullanılarak geliştirilmiş, metin tabanlı bir h
 
 ## 🚀 Kurulum ve Çalıştırma
 
-Bu projeyi kendi bilgisayarınızda çalıştırmak için bir C derleyicisine (GCC gibi) ihtiyacınız vardır.
+Bu proje C dilinde yazılmıştır ve herhangi bir standart C derleyicisi (GCC, Clang vb.) ile derlenebilir.
 
-1. Projeyi klonlayın veya `main.c` dosyasını indirin.
-2. Terminali açın ve dosyanın olduğu dizine gidin.
-3. Aşağıdaki komutla derleyin:
-   ```bash
-   gcc main.c -o oyun
-4. Oyunu başlatın:
-
-Windows için: oyun.exe
-
-Mac/Linux için: ./oyun
+1.  Proje dosyasını klonlayın:
+    ```bash
+    git clone [GitHub Repo Linkiniz Buraya Gelecek]
+    ```
+2.  Kodu derleyin (Örnek GCC kullanımı):
+    ```bash
+    gcc main.c -o oyun
+    ```
+3.  Uygulamayı çalıştırın:
+    ```bash
+    oyun
+    ```
