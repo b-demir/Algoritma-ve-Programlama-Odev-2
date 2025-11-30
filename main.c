@@ -288,6 +288,11 @@ int main()
                 } while (cevap != sifre);
 
                 enerji -= 20;
+
+                if (enerji < 0)
+                {
+                    enerji = 0;
+                }
             }
             else
             {
