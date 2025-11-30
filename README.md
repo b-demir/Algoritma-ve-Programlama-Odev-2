@@ -42,7 +42,7 @@ Bu proje C dilinde yazılmıştır ve herhangi bir standart C derleyicisi (GCC, 
 
 1.  Proje dosyasını klonlayın:
     ```bash
-    git clone [GitHub Repo Linkiniz Buraya Gelecek]
+    git clone https://github.com/b-demir/Algoritma-ve-Programlama-Odev-2
     ```
 2.  Kodu derleyin (Örnek GCC kullanımı):
     ```bash
